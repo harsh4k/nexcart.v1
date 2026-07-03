@@ -33,18 +33,25 @@ It avoids unnecessary complexity while delivering the core functionality expecte
 ---
 
 ## Tech Stack
-
 ### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* Vercel
+- React 19 + Vite 6
+- Tailwind CSS 4
+- React Router
 
 ### Backend
+- Node.js + Express (`server.ts`)
+- MongoDB (Mongoose)
+- Firebase (auth via `react-firebase-hooks`)
 
-* Python (FastAPI)
-* MongoDB
+### AI
+- Google Gemini API (`@google/genai`)
+
+## Setup
+```powershell
+npm install
+# configure .env — see .env.example (Mongo URI, Firebase config, Gemini key)
+npm run dev
+```
 
 ### Authentication
 
