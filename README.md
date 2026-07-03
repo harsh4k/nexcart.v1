@@ -27,7 +27,7 @@ It avoids unnecessary complexity while delivering the core functionality expecte
 * Google authentication
 * Order management system
 * Fast frontend deployment (Vercel)
-* Backend powered by FastAPI and MongoDB
+* Backend powered by Express and MongoDB
 * Minimal and clean UI
 
 ---
