@@ -7,7 +7,6 @@
 ## Banner
 
 <img width="1878" height="687" alt="image" src="https://github.com/user-attachments/assets/a58a60a9-27cc-4c6f-82bb-3e37ef1838cd" />
-)
 
 ---
 
@@ -57,7 +56,7 @@ npm run dev
 
 * Google OAuth
 
---
+---
 
 
 ## Core Philosophy
